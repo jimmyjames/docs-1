@@ -1,6 +1,8 @@
 title: Cordova
 author:
-  community: true
+  name: David Patrick
+  email: david.patrick@auth0.com
+  community: false
 language:
   - Javascript
 framework:

@@ -1,6 +1,8 @@
 title: WPF / Winforms
 author:
-  community: true
+  name: Damien Guard
+  email: damien.guard@auth0.com
+  community: false
 hybrid: false
 language:
   - Javascript

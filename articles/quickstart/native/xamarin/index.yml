@@ -1,6 +1,8 @@
 title: Xamarin
 author:
-  community: true
+  name: Damien Guard
+  email: damien.guard@auth0.com
+  community: false
 language:
   - C#
 framework:
